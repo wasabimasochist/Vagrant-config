@@ -1,0 +1,1 @@
+{"virtualbox":{"/shared":{"guestpath":"/shared","hostpath":"C:/Users/GlutenFreeman/ubuntu1804/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/GlutenFreeman/ubuntu1804","disabled":false,"__vagrantfile":true}}}
